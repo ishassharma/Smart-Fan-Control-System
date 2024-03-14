@@ -14,5 +14,5 @@ Embedded C, Bare-Metal, ADC, OLED, GPIO, Motor Driver, Duty Cycle, HAL, Interrup
 7) Consideration of usability and user experience enhanced product perspective.
 8) Time management skills honed, beneficial for future projects and endeavors.
 
-##Demo Video
+## Demo Video
 https://drive.google.com/file/d/1mmehP5XDP9ZCTKfaPgsa8IO7eTMC8FPf/view?usp=sharing
